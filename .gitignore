@@ -4,7 +4,4 @@
 # Code coverage report
 /coverage
 
-# Production
-/dist
-
 npm-debug.log*
